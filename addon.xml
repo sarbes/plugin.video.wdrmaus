@@ -10,7 +10,7 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
-		<language>de</language>
+		<language>en de</language>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
         <disclaimer lang="de">Dieses Add-on wird von keiner Sendeanstalt unterstützt und ist daher inoffiziell.</disclaimer>
     </extension>
