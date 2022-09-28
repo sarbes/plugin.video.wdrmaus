@@ -1,0 +1,44 @@
+# XBMC Media Center language file
+# Addon Name: wdrmaus
+# Addon id: plugin.video.wdrmaus
+# Addon version: 0.0.1
+# Addon Provider: sarbes
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC-Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2017-08-09 10:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "Addon Summary"
+msgid "See the latest episodes of WDR's Die Sendung mit der Maus"
+msgstr "Neueste Episoden vom WDR, Die Sendung mit der Maus"
+
+msgctxt "Addon Description"
+msgid "Watch the previous two episodes of WDR's Die Sendung mit Der Maus. Updated directly after broadcast."
+msgstr "Sehen Sie die vorherigen zwei Episoden von Die Sendung mit Der Maus von WDR. Direkt nach der TV-Ausstrahlung aktualisiert."
+
+#Settings
+
+msgctxt "#30000"
+msgid "Accessibility"
+msgstr "Zugänglichkeitsunterstützung"
+
+msgctxt "#30001"
+msgid "Use sign language version when available"
+msgstr "Wählen Sie Gebärdensprachen-Version, wenn verfügbar"
+
+msgctxt "#30002"
+msgid "Show subtitles when available"
+msgstr "Untertitel ansehen, wenn verfügbar"
+
+msgctxt "#30003"
+msgid "Use video description when available"
+msgstr "Audiodeskription ansehen, wenn verfügbar"
